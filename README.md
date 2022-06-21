@@ -1,7 +1,7 @@
 # React Native Developer Exam
 
 ## Instructions
-Clone this repo and upload your working source code on Github. You have (1) whole day to do the development.
+Clone this repo and create a Pull Request for your working source code. You have (1) whole day to do the development.
 
 ## Details  
 Create a shopping app for an iPhone store with the ff features:
